@@ -57,3 +57,7 @@ SQL-Practice
 ## 🎯 Goal
 
 To build strong SQL querying and data analysis skills by practicing real-world business scenarios and improving problem-solving techniques.
+
+## 🚀 Status
+
+✅ Repository under active development with regular SQL practice updates.
